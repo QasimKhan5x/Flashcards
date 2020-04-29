@@ -1,0 +1,39 @@
+Afghanistan
+Kabul
+2
+USA
+Washington D.C.
+1
+Japan
+Tokyo
+0
+England
+london
+3
+India
+New Delhi
+1
+North Korea
+Pyongyang
+0
+Spain
+Madrid
+0
+Bangladesh
+Dhaka
+0
+South Korea
+Seoul
+1
+Pakistan
+Islamabad
+0
+Turkey
+Istanbul
+0
+China
+Beijing
+1
+France
+Paris
+0

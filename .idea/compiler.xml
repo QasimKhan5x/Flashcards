@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Flashcards-task_main" target="11" />
+      <module name="Flashcards-task_test" target="11" />
+      <module name="Problems-Alphabetical_order_main" target="11" />
+      <module name="Problems-Alphabetical_order_test" target="11" />
+      <module name="Problems-Bank_account_main" target="11" />
+      <module name="Problems-Bank_account_test" target="11" />
+      <module name="Problems-Boxes_main" target="11" />
+      <module name="Problems-Boxes_test" target="11" />
+      <module name="Problems-Check_if_an_array_contains_two_numbers_main" target="11" />
+      <module name="Problems-Check_if_an_array_contains_two_numbers_test" target="11" />
+      <module name="Problems-Converting_and_multiplying_main" target="11" />
+      <module name="Problems-Converting_and_multiplying_test" target="11" />
+      <module name="Problems-Count_words_main" target="11" />
+      <module name="Problems-Count_words_test" target="11" />
+      <module name="Problems-Counting_words_main" target="11" />
+      <module name="Problems-Counting_words_test" target="11" />
+      <module name="Problems-Cyclically_shifting_elements_main" target="11" />
+      <module name="Problems-Cyclically_shifting_elements_test" target="11" />
+      <module name="Problems-Does_an_array_contain_N_main" target="11" />
+      <module name="Problems-Does_an_array_contain_N_test" target="11" />
+      <module name="Problems-Employees_main" target="11" />
+      <module name="Problems-Employees_test" target="11" />
+      <module name="Problems-Getting_the_fullname_main" target="11" />
+      <module name="Problems-Getting_the_fullname_test" target="11" />
+      <module name="Problems-Groundhogs_at_a_party_main" target="11" />
+      <module name="Problems-Groundhogs_at_a_party_test" target="11" />
+      <module name="Problems-Individual_taxes_main" target="11" />
+      <module name="Problems-Individual_taxes_test" target="11" />
+      <module name="Problems-Is_between_main" target="11" />
+      <module name="Problems-Is_between_test" target="11" />
+      <module name="Problems-Kidnapper_of_Ice_cream_main" target="11" />
+      <module name="Problems-Kidnapper_of_Ice_cream_test" target="11" />
+      <module name="Problems-Multiset_main" target="11" />
+      <module name="Problems-Multiset_test" target="11" />
+      <module name="Problems-Project_constants_and_methods_main" target="11" />
+      <module name="Problems-Project_constants_and_methods_test" target="11" />
+      <module name="Problems-Publication_and_its_subclasses_main" target="11" />
+      <module name="Problems-Publication_and_its_subclasses_test" target="11" />
+      <module name="Problems-Publications_main" target="11" />
+      <module name="Problems-Publications_test" target="11" />
+      <module name="Problems-Right_Rotation_main" target="11" />
+      <module name="Problems-Right_Rotation_test" target="11" />
+      <module name="Problems-Saying_animals_main" target="11" />
+      <module name="Problems-Saying_animals_test" target="11" />
+      <module name="Problems-Shapes_area_main" target="11" />
+      <module name="Problems-Shapes_area_test" target="11" />
+      <module name="Problems-Strict_superset_main" target="11" />
+      <module name="Problems-Strict_superset_test" target="11" />
+      <module name="Problems-The_longest_ascending_sequence_main" target="11" />
+      <module name="Problems-The_longest_ascending_sequence_test" target="11" />
+      <module name="Problems-The_maximum_pairwise_product_main" target="11" />
+      <module name="Problems-The_maximum_pairwise_product_test" target="11" />
+      <module name="Problems-Tricky_sub-maps_main" target="11" />
+      <module name="Problems-Tricky_sub-maps_test" target="11" />
+      <module name="Problems-Triples_main" target="11" />
+      <module name="Problems-Triples_test" target="11" />
+      <module name="Problems-Two_numbers_never_occur_to_each_other_main" target="11" />
+      <module name="Problems-Two_numbers_never_occur_to_each_other_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

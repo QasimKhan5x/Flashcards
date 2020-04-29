@@ -1,0 +1,211 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+There are no cards with errors.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Pakistan
+The definition of the card:
+Islamabad
+The pair ("Pakistan":"Islamabad") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+India
+The definition of the card:
+New Delhi
+The pair ("India":"New Delhi") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Afghanistan
+The definition of the card:
+Kabul
+The pair ("Afghanistan":"Kabul") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Bangladesh
+The definition of the card:
+Dhaka
+The pair ("Bangladesh":"Dhaka") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+China
+Invalid action
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+China
+The definition of the card:
+Beijing
+The pair ("China":"Beijing") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+South Korea
+The definition of the card:
+Seoul
+The pair ("South Korea":"Seoul") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+North Korea
+The definition of the card:
+Pyongyang
+The pair ("North Korea":"Pyongyang") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Japan
+The definition of the card:
+Tokyo
+The pair ("Japan":"Tokyo") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+USA
+Invalid action
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Washington D.C.
+The definition of the card:
+USA
+The pair ("Washington D.C.":"USA") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+remove
+The card:
+Washington dc
+Can't remove "Washington dc": there is no such card.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+remove
+The card:
+Washington D.C.
+The card has been removed.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+USA
+The definition of the card:
+Washington D.C.
+The pair ("USA":"Washington D.C.") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+England
+The definition of the card:
+london
+The pair ("England":"london") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+France
+The definition of the card:
+Paris
+The pair ("France":"Paris") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Spain
+The definition of the card:
+Madrid
+The pair ("Spain":"Madrid") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+Turkey
+Invalid action
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Turkey
+The definition of the card:
+Istanbul
+The pair ("Turkey":"Istanbul") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+25
+Print the definition of "England":
+London
+Wrong answer. The correct one is "london".
+Print the definition of "Pakistan":
+Islamabad
+Correct answer
+Print the definition of "China":
+Bejing
+Wrong answer. The correct one is "Beijing".
+Print the definition of "England":
+London
+Wrong answer. The correct one is "london".
+Print the definition of "England":
+london
+Correct answer
+Print the definition of "Afghanistan":
+dhaka
+Wrong answer. The correct one is "Kabul".
+Print the definition of "South Korea":
+Soul
+Wrong answer. The correct one is "Seoul".
+Print the definition of "India":
+Dhaka
+Bangladesh".
+Print the definition of "Afghanistan":
+Kabul
+Correct answer
+Print the definition of "Spain":
+Madrid
+Correct answer
+Print the definition of "England":
+London
+Wrong answer. The correct one is "london".
+Print the definition of "Afghanistan":
+kabul
+Wrong answer. The correct one is "Kabul".
+Print the definition of "Japan":
+Tokyo
+Correct answer
+Print the definition of "France":
+Paris
+Correct answer
+Print the definition of "Bangladesh":
+Dhaka
+Correct answer
+Print the definition of "China":
+Beijing
+Correct answer
+Print the definition of "Afghanistan":
+Kabul
+Correct answer
+Print the definition of "China":
+Beijing
+Correct answer
+Print the definition of "England":
+london
+Correct answer
+Print the definition of "Bangladesh":
+Dhaka
+Correct answer
+Print the definition of "Afghanistan":
+Kabul
+Correct answer
+Print the definition of "South Korea":
+Seoul
+Correct answer
+Print the definition of "USA":
+new york
+Wrong answer. The correct one is "Washington D.C.".
+Print the definition of "Japan":
+Tokyo
+Correct answer
+Print the definition of "Spain":
+Madrid
+Correct answer
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest card is "England". You have 3 errors answering it.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+export
+File name:
+capitals.txt
+13 cards have been saved.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+logfile.txt

@@ -1,0 +1,35 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Problems/Alphabetical order/out/
+/Problems/Alphabetical order/out/production/classes/
+/Problems/Boxes/out/
+/Problems/Boxes/out/production/classes/
+/Problems/Converting and multiplying/out/
+/Problems/Converting and multiplying/out/production/classes/
+/Problems/Count words/out/
+/Problems/Count words/out/production/classes/
+/Problems/Cyclically shifting elements/out/
+/Problems/Cyclically shifting elements/out/production/classes/
+/Problems/Individual taxes/out/
+/Problems/Individual taxes/out/production/classes/
+/Problems/Is between/out/
+/Problems/Is between/out/production/classes/
+/Problems/Kidnapper of Ice cream/out/
+/Problems/Kidnapper of Ice cream/out/production/classes/
+/Problems/Multiset/out/
+/Problems/Multiset/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/The longest ascending sequence/out/
+/Problems/The longest ascending sequence/out/production/classes/
+/Problems/The maximum pairwise product/out/
+/Problems/The maximum pairwise product/out/production/classes/
+/Problems/Tricky sub-maps/out/
+/Problems/Tricky sub-maps/out/production/classes/
+/Problems/Triples/out/
+/Problems/Triples/out/production/classes/
+/Problems/Two numbers never occur to each other/out/
+/Problems/Two numbers never occur to each other/out/production/classes/
